@@ -1,2 +1,2 @@
 # travel-site
-web design made to practice my PSD to HTML conversion skill
+website made with tools such as webpack, babel, gulp, and postcss and bem
