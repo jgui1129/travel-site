@@ -6,12 +6,12 @@
     "normalize.css": "^7.0.0"
   },
   "devDependencies": {
-    "autoprefixer": "^7.1.2",
+    "autoprefixer": "^10.6.2",
     "gulp": "^3.9.1",
-    "gulp-postcss": "^7.0.0",
+    "gulp-postcss": "^10.0.0",
     "gulp-watch": "^4.3.11",
-    "postcss-import": "^10.0.0",
-    "postcss-nested": "^2.1.0",
-    "postcss-simple-vars": "^4.0.0"
+    "postcss-import": "^17.0.1",
+    "postcss-nested": "^9.0.1",
+    "postcss-simple-vars": "^7.0.1"
   }
 }
